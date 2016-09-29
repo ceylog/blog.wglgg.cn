@@ -1,0 +1,20 @@
+= hello world
+:hp-alt-title: My English Title
+
+== first level heading
+
+:hp-image: a-cover-image.jpg
+
+:published_at: 2016-09-30
+
+:hp-tags: abc, def 
+
+### hello
+
+`hello` `world`
+
+    hello world
+    
+* abc
+* def
+* ghi
