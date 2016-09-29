@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "ceylog",
-    "repositoryName": "ceylog.github.io",
-    "branch": "master"
+    "repositoryName": "blog.wglgg.cn",
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
