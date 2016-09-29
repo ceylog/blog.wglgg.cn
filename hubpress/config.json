@@ -4,7 +4,11 @@
     "repositoryName": "blog.wglgg.cn",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "wglgg | blog"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
